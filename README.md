@@ -37,10 +37,4 @@ Model yang digunakan adalah CNN dengan arsitektur sebagai berikut:
 
 Model yang dibuat memiliki akurasi sekitar 98% pada data validasi.
 
-## Kontributor
 
-* Chanan Artama (chanan.artama@gmail.com)
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT.
